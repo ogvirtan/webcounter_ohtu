@@ -1,7 +1,6 @@
-/*tmp
 **/__pycache__
 **/.pytest_cache
-/htmlcov
 /.venv
-.coverage
-coverage.xml
+log.html
+output.xml
+report.html
